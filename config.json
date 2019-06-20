@@ -1,0 +1,18 @@
+{
+    "staging": {
+        "token" : "896946150:AAFOlw8GB4HyVtDvGom5EKQsy3RSGMgJc_Q",
+        "friendsDir": "/res/popug-images",
+        "font" : {
+            "file": "/res/OpenSans-Bold.ttf",
+            "size": 82
+        }
+    },
+    "prod" : {
+        "token" : "540376351:AAGcP9MkeZUuMHTo9kF8rwQqrTPwdmYIa0U",
+        "friendsDir": "/res/popug-images",
+        "font" : {
+            "file": "/res/OpenSans-Bold.ttf",
+            "size": 82
+        }
+    }
+}
