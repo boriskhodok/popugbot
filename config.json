@@ -1,6 +1,6 @@
 {
     "staging": {
-        "token" : "896946150:AAFOlw8GB4HyVtDvGom5EKQsy3RSGMgJc_Q",
+        "token" : "STAGING_TOKEN",
         "friendsDir": "/res/popug-images",
         "font" : {
             "file": "/res/OpenSans-Bold.ttf",
@@ -8,7 +8,7 @@
         }
     },
     "prod" : {
-        "token" : "540376351:AAGcP9MkeZUuMHTo9kF8rwQqrTPwdmYIa0U",
+        "token" : "PROD_TOKEN",
         "friendsDir": "/res/popug-images",
         "font" : {
             "file": "/res/OpenSans-Bold.ttf",
